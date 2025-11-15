@@ -16,6 +16,12 @@ Predicts handwritten digits (0–9) using a CNN trained on MNIST.
 
 🔗 Live App: https://tzekqgqnv5f9c77qqcj3bo.streamlit.app/
 
+🌸 Flower Classification (CNN)
+
+Classifies flower images into different categories using a Convolutional Neural Network built with TensorFlow/Keras.
+
+🔗 Live App: https://flower-classification-9q7ksfjotreq6t3tiaeuzh.streamlit.app/
+
 😄 Emotion Detection from Text
 
 Detects emotions like joy, anger, sadness, and surprise from text.
