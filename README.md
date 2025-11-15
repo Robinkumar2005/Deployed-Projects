@@ -7,19 +7,23 @@
 📧 Spam Email Detection
 
 Classifies emails as spam or not spam using Logistic Regression, SVM, and Naive Bayes.
+
 🔗 Live App: https://spam-mail-detection-pdtoldvyelezy7s6wityhy.streamlit.app/
 
 🖊️ Handwritten Digit Recognition (MNIST)
 
 Predicts handwritten digits (0–9) using a CNN trained on MNIST.
+
 🔗 Live App: https://tzekqgqnv5f9c77qqcj3bo.streamlit.app/
 
 😄 Emotion Detection from Text
 
 Detects emotions like joy, anger, sadness, and surprise from text.
+
 🔗 Live App: https://emotion-detection-with-ml-mugjk2rjvmqjfsymrqvueu.streamlit.app/
 
 ❤️ Heart Risk Detector
 
 Predicts heart disease risk using Logistic Regression, KNN, and Naive Bayes.
+
 🔗 Live App: https://heart-risk-predictor-8l7shstzfksrxiiugba73k.streamlit.app/
